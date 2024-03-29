@@ -10,3 +10,6 @@
 - **Практическая работа 4.** Проектирование сквозного конвейера ETL на Python и Airflow
   - [4.1. Описание основных элементов интерфейса Apache Airflow](https://github.com/BashkatovaAD/kurs_ETL_2024/blob/main/%D0%9F%D0%A0_4/%D0%91%D0%B0%D1%88%D0%BA%D0%B0%D1%82%D0%BE%D0%B2%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0_%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%BE%D0%B2%D0%BD%D0%B0_%D0%9F%D0%A04.1.pdf)
   - [4.2. Basic pipeline ETL](https://github.com/BashkatovaAD/kurs_ETL_2024/blob/main/%D0%9F%D0%A0_4/%D0%91%D0%B0%D1%88%D0%BA%D0%B0%D1%82%D0%BE%D0%B2_%D0%90%D0%BD%D0%BD%D0%B0_%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%BE%D0%B2%D0%BD%D0%B0_%D0%9F%D0%A04.2.ipynb)
+
+- **Практическая работа 5.** Airflow DAG
+  - [Отчет](https://github.com/BashkatovaAD/kurs_ETL_2024/blob/main/%D0%9F%D0%A0_5/%D0%91%D0%B0%D1%88%D0%BA%D0%B0%D1%82%D0%BE%D0%B2%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0_%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%BE%D0%B2%D0%BD%D0%B0_%D0%9F%D0%A05.pdf)
