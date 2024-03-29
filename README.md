@@ -13,3 +13,5 @@
 
 - **Практическая работа 5.** Airflow DAG
   - [Отчет](https://github.com/BashkatovaAD/kurs_ETL_2024/blob/main/%D0%9F%D0%A0_5/%D0%91%D0%B0%D1%88%D0%BA%D0%B0%D1%82%D0%BE%D0%B2%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0_%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%BE%D0%B2%D0%BD%D0%B0_%D0%9F%D0%A05.pdf)
+   - [Файлы](https://github.com/BashkatovaAD/kurs_ETL_2024/tree/main/%D0%9F%D0%A0_5)
+
